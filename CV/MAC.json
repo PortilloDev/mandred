@@ -1,0 +1,282 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Iván",
+      "surnames": "Portillo Pérez",
+      "title": "PHP Backend developer",
+      "description": "Desarrollador de aplicaciones web, he participado en numerosos proyectos como Consultor, Arquitecto y Analista Programador.  Participando activamente en el desarrollando de las diferentes fases del proyecto.\n\nEstoy especializado en PHP y en sus frameworks de Laravel y Slim. También desarrollo en otros lenguajes de programación (Java, VB.Net, React) y frameworks. A pesar de tener una fuerte orientación al backend, me manejo bien en todos los ámbitos del desarrollo web, pudiendo abarcar todos los aspectos del desarrollo.  ",
+      "location": {
+        "notes": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/PortilloDev"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/portillo_dev"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/iv%C3%A1n-portillo-p%C3%A9rez-a9676878/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Musica",
+        "fact": "Amante de la música, he tocado varios instrumentos entre ellos batería y cajón flamenco. Mi grupo fetiche Metallica,."
+      },
+      {
+        "topic": "Estudiar",
+        "fact": "Me gusta aprender tanto de temas tecnológicos, deportivos y de todo lo que tenga que ver con la mente y el cuerpo"
+      },
+      {
+        "topic": "Deporte",
+        "fact": "Suelo salir a correr y sobre todo distancias largas. Ya he corrido 4 maratones y espero que pronto llegue la 5.\n\nTambién me gusta el boxeo y el ejercicio físico en general."
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kibana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bitbucket",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AJAX",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Lamp",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MailChimp",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "DBeaver",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VB.NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MacOS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Slim",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gitflow",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/iv%C3%A1n-portillo-p%C3%A9rez-a9676878/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Laravel",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
