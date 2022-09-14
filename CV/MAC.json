@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/19/4a61e21a-64ed-47b6-8897-91894d6bf8aa_1600748843329.jpg"
       },
       "location": {
-        "notes": "Madrid"
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -47,6 +49,57 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "UNIR - La Universidad en Internet",
+          "URL": "https://www.linkedin.com/company/755604/"
+        },
+        "roles": [
+          {
+            "name": " PHP backend developer",
+            "startDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": "Trabajo en la gestión de los datos relacionados con RGPD, dentro del departamento de Innovación de la UNIR.\n\nDesarrollo de API´s  y microservicios en PHP con Laravel y Slim, para la integración de aplicaciones internas de la empresa, e integración de aplicaciones externas, mediante el protocolo REST. \n\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PHPunit",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Slim",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
@@ -57,90 +110,6 @@
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jira",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bitbucket",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MacOS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "API",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kibana",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Tailwind",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Confluence",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "DBeaver",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "VB.NET",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "PHP",
@@ -155,25 +124,19 @@
       },
       {
         "skill": {
-          "name": "Symfony",
+          "name": "Slim",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "API",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
+          "name": "Visual Studio Code",
           "type": "technology"
         }
       },
@@ -197,25 +160,7 @@
       },
       {
         "skill": {
-          "name": "Bootstrap",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "RabbitMQ",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MailChimp",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GitLab",
+          "name": "PostgreSQL",
           "type": "technology"
         }
       },
@@ -227,7 +172,67 @@
       },
       {
         "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "AJAX",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "DBeaver",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kibana",
           "type": "technology"
         }
       },
@@ -239,7 +244,37 @@
       },
       {
         "skill": {
-          "name": "Slim",
+          "name": "MailChimp",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apple macOS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VB.NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
           "type": "technology"
         }
       },
@@ -251,7 +286,25 @@
       },
       {
         "skill": {
-          "name": "Visual Studio Code",
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bitbucket",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Symfony",
           "type": "technology"
         }
       }
