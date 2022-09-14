@@ -450,6 +450,17 @@
     "studies": [
       {
         "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "GRADO EN INGENIERÍA INFORMÁTICA",
+        "startDate": "2020-01-01",
+        "institution": {
+          "name": "UNED",
+          "description": "El título de Graduado/a en Ingeniería Informática garantiza una sólida formación científica y tecnológica, que capacita tanto para el ejercicio profesional en el ámbito de la Informática como para la innovación e investigación desde esa formación generalista y de fundamentos.",
+          "URL": "https://www.uned.es/universidad/inicio.html"
+        }
+      },
+      {
+        "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "FP 2 - GRADO SUPERIOR INFORMATICA",
         "startDate": "1996-09-01",
