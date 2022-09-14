@@ -97,6 +97,66 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Heartcoded S.L",
+          "URL": "https://www.linkedin.com/company/heartcoded/"
+        },
+        "roles": [
+          {
+            "name": "Programador full stack Laravel",
+            "startDate": "2021-04-01",
+            "finishDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": "Desarrollador web: Programación en PHP utilizando múltiples Laravel y CMS ( Wordpress). Elaboración integra de páginas web desde maquetación en CSS y Javascript hasta modelado de datos y backend. También he trabajado en la integración de pasarelas de pago con Stripe y PayPal e integración de listas de distribución con Mailchimp.\n\nTrabajado con Tailwind, Laravel (stack TALL), bases de datos relacionales (Sql, Mysql), servidor Azure, y todas las herramientas de desarrollo de Atlassian (Bitbucket, Jira, Confluence)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "MailChimp",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Stripe",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
