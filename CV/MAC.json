@@ -202,6 +202,40 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Notas web",
+          "description": "Se trata de un blog en el que comparto artículos, guías y manuales que este relacionados con tecnología y programación. \n\nEste proyecto está creado íntegramente en Laravel. Tiene una parte pública donde se muestra el contenido y la parte privada del backoffice. Donde se genera el contenido, y se analiza datos de seguimiento y visitas a los artículos y a el blog. La web se encuentra levantado en un droplet de DigitalOcean.\n\nLa motivación para este proyecto fue crear un sitio donde tener unificados la guía de cosas nuevas que voy aprendiendo y ver como gestionar un proyecto desde 0",
+          "URL": "https://notasweb.me/blog",
+          "image": {
+            "alt": "LogoNOTASWEB.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/14/227fe517-ef63-44f1-bf77-c72562ea1f79_logonotasweb.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-11-01",
+            "competences": [
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
