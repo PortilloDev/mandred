@@ -157,6 +157,50 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Kuehne + Nagel",
+          "URL": "https://www.linkedin.com/company/kuehne-nagel/"
+        },
+        "roles": [
+          {
+            "name": " PHP developer",
+            "startDate": "2016-06-01",
+            "finishDate": "2021-04-01",
+            "challenges": [
+              {
+                "description": "Trabajé en el departamento de sistemas de Kuehne Nagel, dentro del área Aeroespacial. Durante 3 años estuve trabajando en el desarrollo de aplicaciones web en entorno Laravel y PHP en la parte de back-end, y Bootstrap, Jquery y Ajax en el front-end. En ese tiempo trabaje desarrollando un producto interno de la empresa para administrar el resto de aplicaciones de la empresa.\n\nTambién desarrollado aplicaciones de escritorio en entornos vb.net (Scripting SAP), visual Basic y Java de forma puntual. \n\nSegún el proyecto, llegué a desempeñar funciones de coordinador en implantaciones de nuevas aplicaciones."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "VB.NET",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
