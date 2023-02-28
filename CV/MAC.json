@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,7 +9,7 @@
       "name": "Iván",
       "surnames": "Portillo Pérez",
       "title": "PHP Backend developer",
-      "description": "Desarrollador de aplicaciones web, he participado en numerosos proyectos como Consultor, Arquitecto y Analista Programador.  Participando activamente en el desarrollando de las diferentes fases del proyecto.\n\nEstoy especializado en PHP y en sus frameworks de Laravel, Slim y Sympfony. También desarrollo en otros lenguajes de programación (Java, VB.Net, React) y frameworks. A pesar de tener una fuerte orientación al backend, me manejo bien en todos los ámbitos del desarrollo web, habiendo tocado otras tecnologías como React o Angular, pudiendo abarcar todos los aspectos del desarrollo.  ",
+      "description": "",
       "avatar": {
         "alt": "1600748843329.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/19/4a61e21a-64ed-47b6-8897-91894d6bf8aa_1600748843329.jpg"
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -249,97 +250,15 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jira",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bitbucket",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kibana",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Apple macOS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "API",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Confluence",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Tailwind",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "DBeaver",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "VB.NET",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "PHP",
@@ -354,31 +273,19 @@
       },
       {
         "skill": {
-          "name": "Symfony",
+          "name": "Slim",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "API",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AngularJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
+          "name": "Visual Studio Code",
           "type": "technology"
         }
       },
@@ -402,25 +309,7 @@
       },
       {
         "skill": {
-          "name": "Bootstrap",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "RabbitMQ",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MailChimp",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GitLab",
+          "name": "PostgreSQL",
           "type": "technology"
         }
       },
@@ -432,7 +321,67 @@
       },
       {
         "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "AJAX",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "DBeaver",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kibana",
           "type": "technology"
         }
       },
@@ -444,7 +393,37 @@
       },
       {
         "skill": {
-          "name": "Slim",
+          "name": "MailChimp",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apple macOS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VB.NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
           "type": "technology"
         }
       },
@@ -456,7 +435,31 @@
       },
       {
         "skill": {
-          "name": "Visual Studio Code",
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bitbucket",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AngularJS",
           "type": "technology"
         }
       }
@@ -530,6 +533,7 @@
         "Product Analyst",
         "Tech Lead"
       ]
-    }
+    },
+    "status": "notAvailable"
   }
 }
