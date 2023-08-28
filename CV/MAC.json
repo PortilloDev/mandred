@@ -9,32 +9,18 @@
       "name": "Iván",
       "surnames": "Portillo Pérez",
       "title": "PHP Backend developer",
-      "description": "",
+      "description": "Desarrollador de aplicaciones web, he participado en numerosos proyectos como Consultor, Arquitecto y Analista Programador.  Participando activamente en el desarrollando de las diferentes fases del proyecto.\n\nEstoy especializado en PHP y en sus frameworks de Laravel, Slim y Sympfony. También desarrollo en otros lenguajes de programación (Java, VB.Net, React) y frameworks. A pesar de tener una fuerte orientación al backend, me manejo bien en todos los ámbitos del desarrollo web, habiendo tocado otras tecnologías como React o Angular, pudiendo abarcar todos los aspectos del desarrollo.  ",
       "avatar": {
-        "alt": "1600748843329.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/19/4a61e21a-64ed-47b6-8897-91894d6bf8aa_1600748843329.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/19/4a61e21a-64ed-47b6-8897-91894d6bf8aa_1600748843329.jpg",
+        "alt": "1600748843329.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/PortilloDev"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/portillo_dev"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/iv%C3%A1n-portillo-p%C3%A9rez-a9676878/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Musica",
@@ -52,6 +38,65 @@
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "O2O - One2One Digital Strategy",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/28/0c9d5ba0-f6f8-4eb5-b2d9-78fd11ff5e5d_mo2o.jpeg",
+            "alt": "mo2o.jpeg"
+          },
+          "URL": "https://www.mo2o.com/"
+        },
+        "roles": [
+          {
+            "name": "Backend Developer",
+            "startDate": "2023-01-01",
+            "challenges": [
+              {
+                "description": "Desarrollador PHP (Symfony) en entornos Backend. Desarrollando con arquitecturas modernas como Hexagonal, DDD, CQRS y microservicios."
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Postman",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "UNIR - La Universidad en Internet",
@@ -219,8 +264,8 @@
           "description": "Se trata de un blog en el que comparto artículos, guías y manuales que este relacionados con tecnología y programación. \n\nEste proyecto está creado íntegramente en Laravel. Tiene una parte pública donde se muestra el contenido y la parte privada del backoffice. Donde se genera el contenido, y se analiza datos de seguimiento y visitas a los artículos y a el blog. La web se encuentra levantado en un droplet de DigitalOcean.\n\nLa motivación para este proyecto fue crear un sitio donde tener unificados la guía de cosas nuevas que voy aprendiendo y ver como gestionar un proyecto desde 0",
           "URL": "https://notasweb.me/blog",
           "image": {
-            "alt": "LogoNOTASWEB.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/14/227fe517-ef63-44f1-bf77-c72562ea1f79_logonotasweb.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/14/227fe517-ef63-44f1-bf77-c72562ea1f79_logonotasweb.png",
+            "alt": "LogoNOTASWEB.png"
           }
         },
         "type": "sideProject",
@@ -250,30 +295,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Laravel",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Slim",
+          "name": "AJAX",
           "type": "technology"
         }
       },
@@ -285,13 +318,43 @@
       },
       {
         "skill": {
-          "name": "Visual Studio Code",
+          "name": "AngularJS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MySQL",
+          "name": "Apple macOS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bitbucket",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "DBeaver",
           "type": "technology"
         }
       },
@@ -303,19 +366,31 @@
       },
       {
         "skill": {
-          "name": "SQL",
+          "name": "Git",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "PostgreSQL",
+          "name": "GitLab",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Postman",
+          "name": "Gitflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
           "type": "technology"
         }
       },
@@ -328,48 +403,6 @@
       {
         "skill": {
           "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Tailwind",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bootstrap",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AJAX",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "DBeaver",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GitLab",
           "type": "technology"
         }
       },
@@ -393,13 +426,37 @@
       },
       {
         "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MailChimp",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Apple macOS",
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
           "type": "technology"
         }
       },
@@ -417,37 +474,13 @@
       },
       {
         "skill": {
-          "name": "VB.NET",
+          "name": "SQL",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Gitflow",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Confluence",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bitbucket",
+          "name": "Slim",
           "type": "technology"
         }
       },
@@ -459,7 +492,19 @@
       },
       {
         "skill": {
-          "name": "AngularJS",
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VB.NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
           "type": "technology"
         }
       }
@@ -467,25 +512,14 @@
     "studies": [
       {
         "studyType": "officialDegree",
-        "degreeAchieved": false,
-        "name": "GRADO EN INGENIERÍA INFORMÁTICA",
-        "startDate": "2020-01-01",
-        "institution": {
-          "name": "UNED",
-          "description": "El título de Graduado/a en Ingeniería Informática garantiza una sólida formación científica y tecnológica, que capacita tanto para el ejercicio profesional en el ámbito de la Informática como para la innovación e investigación desde esa formación generalista y de fundamentos.",
-          "URL": "https://www.uned.es/universidad/inicio.html"
-        }
-      },
-      {
-        "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "FP 2 - GRADO SUPERIOR INFORMATICA",
         "startDate": "1996-09-01",
-        "finishDate": "2001-06-01",
         "institution": {
           "name": "IES Melchor GasparJovellanos",
           "description": "Grado superior de informática y gestión de empresas"
         },
+        "finishDate": "2001-06-01",
         "linkedCompetences": [
           {
             "name": "C++",
@@ -500,6 +534,37 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "GRADO EN INGENIERÍA INFORMÁTICA",
+        "startDate": "2020-01-01",
+        "institution": {
+          "name": "UNED",
+          "description": "El título de Graduado/a en Ingeniería Informática garantiza una sólida formación científica y tecnológica, que capacita tanto para el ejercicio profesional en el ámbito de la Informática como para la innovación e investigación desde esa formación generalista y de fundamentos.",
+          "URL": "https://www.uned.es/universidad/inicio.html"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de autogestión",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gestión de equipo",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -507,8 +572,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/iv%C3%A1n-portillo-p%C3%A9rez-a9676878/"
+          "URL": "https://www.linkedin.com/in/iv%C3%A1n-portillo-p%C3%A9rez-a9676878/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/PortilloDev",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/portillo_dev",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "ipp_1981@hotmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "682177179",
+          "countryCode": "+34"
         }
       ]
     },
@@ -535,5 +617,14 @@
       ]
     },
     "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustaría un trabajo que me ofreciera la posibilidad de hacer trabajo remoto 100% con flexibilidad horaria. Pero también que me gustará el proyecto, ofreciéndome nuevos retos y en el que pudiera aportar valor.",
+    "goodPractices": "Me gusta trabajar con programación orientada a objetos e intentado aplicar los principios SOLID siempre que sea posible. No trabajo con metodología TDD pero si procuro realizar una buena cobertura de test.\n\nUso del gitflow para el desarrollo de proyectos y scrum para la organización de tareas. ",
+    "projects": [
+      {
+        "name": "Notas web"
+      }
+    ]
   }
 }
