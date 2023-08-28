@@ -106,6 +106,7 @@
           {
             "name": " PHP backend developer",
             "startDate": "2021-12-01",
+            "finishDate": "2023-01-01",
             "challenges": [
               {
                 "description": "Trabajo en la gestión de los datos relacionados con RGPD, dentro del departamento de Innovación de la UNIR.\n\nMí día a día se mueve en la creación y el mantenimiento de API´s  mediante el protocolo REST, microservicios en entornos dockerizados para desarrollos en PHP con Laravel y Slim,  gestión de colas de RabbitMQ. Además de compaginar funciones de backend con algunas tareas de front en angular, javascript y jquery.\n\nAplico buenas prácticas, Clean Code, principios SOLID, metodologías Ágiles y generación de pruebas con PHPUnit."
