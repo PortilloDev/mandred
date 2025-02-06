@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -33,6 +33,20 @@
       {
         "topic": "Deporte",
         "fact": "Suelo salir a correr y sobre todo distancias largas. Ya he corrido 4 maratones y espero que pronto llegue la 5.\n\nTambién me gusta el boxeo y el ejercicio físico en general."
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/iv%C3%A1n-portillo-p%C3%A9rez-a9676878/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/PortilloDev"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/portillo_dev"
       }
     ]
   },
@@ -230,7 +244,7 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -297,71 +311,25 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "AJAX",
+          "name": "Azure",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "API",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AngularJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Apple macOS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bitbucket",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bootstrap",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Confluence",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "DBeaver",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Elasticsearch",
+          "name": "Docker",
           "type": "technology"
         }
       },
@@ -373,55 +341,7 @@
       },
       {
         "skill": {
-          "name": "GitLab",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Gitflow",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jira",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kibana",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Lamp",
           "type": "technology"
         }
       },
@@ -433,79 +353,19 @@
       },
       {
         "skill": {
-          "name": "MailChimp",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "PHP",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Postman",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "RabbitMQ",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Slim",
+          "name": "PHPStorm",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Symfony",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Tailwind",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "VB.NET",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio Code",
           "type": "technology"
         }
       }
@@ -620,6 +480,28 @@
     "status": "notAvailable"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Laravel",
+        "type": "technology"
+      },
+      {
+        "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "Symfony",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Me gustaría un trabajo que me ofreciera la posibilidad de hacer trabajo remoto 100% con flexibilidad horaria. Pero también que me gustará el proyecto, ofreciéndome nuevos retos y en el que pudiera aportar valor.",
     "goodPractices": "Me gusta trabajar con programación orientada a objetos e intentado aplicar los principios SOLID siempre que sea posible. No trabajo con metodología TDD pero si procuro realizar una buena cobertura de test.\n\nUso del gitflow para el desarrollo de proyectos y scrum para la organización de tareas. ",
     "projects": [
