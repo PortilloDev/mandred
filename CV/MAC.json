@@ -502,7 +502,7 @@
         "type": "technology"
       }
     ],
-    "desiredJobDescription": "Me gustaría un trabajo que me ofreciera la posibilidad de hacer trabajo remoto 100% con flexibilidad horaria. Pero también que me gustará el proyecto, ofreciéndome nuevos retos y en el que pudiera aportar valor.",
+    "desiredJobDescription": "Mi trabajo ideal es aquel donde pueda diseñar y construir sistemas backend bien pensados desde el dominio, aplicando principios como DDD, Arquitectura Hexagonal y clean code.\n\nMe motiva resolver problemas complejos con soluciones simples y mantenibles. Disfruto especialmente cuando puedo participar en decisiones de arquitectura, definir límites claros entre servicios y optimizar rendimiento en entornos de alto tráfico.\n\nValoro equipos con criterio técnico, transparencia y autonomía real. Un entorno donde se priorice la calidad frente a la velocidad mal entendida.\n\nMe siento cómodo como individual contributor senior, pero también asumiendo liderazgo técnico y mentoría. No busco solo escribir código, busco construir sistemas que duren.\n",
     "goodPractices": "Me gusta trabajar con programación orientada a objetos e intentado aplicar los principios SOLID siempre que sea posible. No trabajo con metodología TDD pero si procuro realizar una buena cobertura de test.\n\nUso del gitflow para el desarrollo de proyectos y scrum para la organización de tareas. ",
     "projects": [
       {
