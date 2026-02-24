@@ -514,6 +514,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
         "name": "Docker",
         "type": "technology"
       },
@@ -523,10 +527,6 @@
       },
       {
         "name": "Laravel",
-        "type": "technology"
-      },
-      {
-        "name": "PHP",
         "type": "technology"
       },
       {
