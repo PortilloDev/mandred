@@ -47,6 +47,15 @@
       {
         "type": "twitter",
         "URL": "https://twitter.com/portillo_dev"
+      },
+      {
+        "type": "other",
+        "URL": "https://ivanportilloperez.com",
+        "description": "Web personal"
+      },
+      {
+        "type": "other",
+        "URL": "https://open.spotify.com/show/1TqvkZRtIpTTdEus9i2l7j"
       }
     ]
   },
